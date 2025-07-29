@@ -60,4 +60,4 @@ Este análisis muestra cómo los datos pueden guiar decisiones estratégicas den
 
 Proyecto desarrollado por **Diego Santiago Aylas Lopez**  
 Formación en Ciencia de Datos – Alura Latam  
-GitHub: 
+GitHub: https://github.com/XDiegoAL/AluraStoreLatam.git
